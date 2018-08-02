@@ -14,27 +14,31 @@ If you are first timer, to the sport or to the gym, you are encouraged to come i
 
 - What is covered by Shopee?
 
-We're paying for your *day pass entry fee* for whichever gym we are going. If you have kids we will purchase an adult-kid pass.
+> We're paying for your *day pass entry fee* for whichever gym we are going. If you have kids we will purchase an adult-kid pass.
 
 - What do I need to pay?
 
 Some gyms require a one-time instantiation fee ranging from $5 - $10.
 
-If you do not have climbing shoes, and harness for top-rope gyms, you need to pay for your own rental that ranges from $5 - $8.
+> If you do not have climbing shoes, and harness for top-rope gyms, you need to pay for your own rental that ranges from $5 - $8.
 
 - Can I bring friends?
 
-Absolutely! Friend(s) will pay multi pass price.
+> Absolutely! Friend(s) will pay multi pass price.
 
 - What should I wear?
 
-Comfortable clothes that you do sports with. You need to stretch your arms and legs so prepare for that.
+> Comfortable clothes that you do sports with. You need to stretch your arms and legs so prepare for that.
 
 - I've never climbed before...
 
-That is no problem! Most of us (including our organizers!) did our first climb after we joined Shopee.
-
-
-
+> That is no problem! Most of us (including our organizers!) did our first climb after we joined Shopee.
 
 ## Gym Information
+
+|Gym Name|Type|Fee w/ multi pass|Instantiation Fee|Rental|Location|
+|---|---|---|---|---|---|
+|Boulder+ Climbing|Bouldering Only|$18|--|Shoes S$5|Aperia Mall / MRT Lavendar|
+|Boulder World|Bouldering Only|$16|--|Shoes S$5|Singpost Centre / MRT Paya Lebar|
+|Onsight Climbing|Top rope, lead, bouldering|S$14|--|Shoes S$6, harness S$3|Aljunied / Mountbattan|
+|Climb Central|Top rope, lead, bouldering|$16|$10|Shoes S$4, harness $3|Kallang Wave Mall / MRT Stadium|
