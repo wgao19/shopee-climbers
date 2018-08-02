@@ -1,1 +1,37 @@
 theme: jekyll-theme-leap-day
+
+url: "http://wgao19.github.io/shopee-climbers"
+baseurl: "/shopee-climbers"
+
+title: Shopee Climbers
+
+description: A small info site for Shopee Climbers
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Climbing Topics: "climbingtopics"
+  Stories: "stories"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Shopee Climbers
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  rss: true
+  instagram: shopee_climbers
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
