@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome, Shopee Climbers
 
-You can use the [editor on GitHub](https://github.com/wgao19/shopee-climbers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Shopee Climbers is an interest group sponsored by [Shopee](https://shopee.sg/). We climb on a weekly basis in a few indoor climbing gyms in Singapore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to Climb with Us
 
-### Markdown
+We have a signup sheet shared internally. Schedule will be posted at least one week prior to each climb. Feel free to join the sheet and indicate that/where you want to climb.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On the day of climb, feel free to show up any time after the designated time. One of us will be checking you in. Though it is more fun to climb together so please try to come in early! We will be taking group photos, climbing videos, and fun candy shots for our most awesome IG: [shopee_climbers](https://www.instagram.com/shopee_climbers/).
 
-```markdown
-Syntax highlighted code block
+If you are first timer, to the sport or to the gym, you are encouraged to come in at the beginning of the time. We will be coordinating gym orientation, security briefing, and warmup together.
 
-# Header 1
-## Header 2
-### Header 3
+### Q & A
 
-- Bulleted
-- List
+- What is covered by Shopee?
 
-1. Numbered
-2. List
+We're paying for your *day pass entry fee* for whichever gym we are going. If you have kids we will purchase an adult-kid pass.
 
-**Bold** and _Italic_ and `Code` text
+- What do I need to pay?
 
-[Link](url) and ![Image](src)
-```
+Some gyms require a one-time instantiation fee ranging from $5 - $10.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you do not have climbing shoes, and harness for top-rope gyms, you need to pay for your own rental that ranges from $5 - $8.
 
-### Jekyll Themes
+- Can I bring friends?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wgao19/shopee-climbers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Absolutely! Friend(s) will pay multi pass price.
 
-### Support or Contact
+- What should I wear?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Comfortable clothes that you do sports with. You need to stretch your arms and legs so prepare for that.
+
+- I've never climbed before...
+
+That is no problem! Most of us (including our organizers!) did our first climb after we joined Shopee.
+
+
+
+
+## Gym Information
