@@ -38,7 +38,8 @@ Some gyms require a one-time instantiation fee ranging from $5 - $10.
 
 |Gym Name|Type|Fee w/ multi pass|Instantiation Fee|Rental|Location|
 |---|---|---|---|---|---|
-|Boulder+ Climbing|Bouldering Only|$18|--|Shoes S$5|Aperia Mall / MRT Lavendar|
-|Boulder World|Bouldering Only|$16|--|Shoes S$5|Singpost Centre / MRT Paya Lebar|
-|Onsight Climbing|Top rope, lead, bouldering|S$14|--|Shoes S$6, harness S$3|Aljunied / Mountbattan|
-|Climb Central|Top rope, lead, bouldering|$16|$10|Shoes S$4, harness $3|Kallang Wave Mall / MRT Stadium|
+|[Boulder+ Climbing](https://www.boulderplusclimbing.com/)|Bouldering Only|S$18|--|Shoes S$5|[Aperia Mall / MRT Lavendar](https://goo.gl/maps/uu55eTfCZCK2)|
+|[Boulder World](http://boulderworld.com/rates/)|Bouldering Only|S$16|--|Shoes S$5|[Singpost Centre / MRT Paya Lebar](https://goo.gl/maps/QYQgPy9LtEs)|
+|[Onsight Climbing](http://2016.onsight.com.sg/)|Top rope, lead, bouldering|S$14|--|Shoes S$6, harness S$3|[Aljunied / Mountbattan](https://goo.gl/maps/H8mKgGGYv6k)|
+|[Climb Central](https://www.climbcentral.sg/)|Top rope, lead, bouldering|S$16|S$10 (covers first time rental set)|Shoes S$4, harness $3|[Kallang Wave Mall / MRT Stadium](https://goo.gl/maps/TH4oaBv6ysE2)|
+|[Gorilla Climbing](https://www.gorillaclimbing.com/)|Top rope, lead, bouldering|S$16|S$10 (covers first time rental set)|Shoes S$4, harness $3|[Near Bedok](https://goo.gl/maps/f871vofosr42)|
